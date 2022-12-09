@@ -1,5 +1,5 @@
 # NFT Marketplace - Modern UI/UX React Native App
-![NFT Marketplace](https://i.ibb.co/X5kYdvB/image.png)
+![NFT Marketplace](https://www.linkedin.com/posts/prasanna-ram-9a810a212_first-app-collaboration-activity-6995065122922663937-65oy?utm_source=share&utm_medium=member_desktop)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial.
